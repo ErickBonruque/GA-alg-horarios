@@ -1,0 +1,26 @@
+periodo,codigo,nome,carga_horaria,professor,aulas_semanais
+1,MA1LM,Lógica Matemática,45,Davi Marcondes Rocha,3
+1,CC1ICC,Introdução à Ciência da Computação,45,Giuvane Conti,3
+1,MA1FM,Fundamentos de Matemática,60,Diego Venancio Thomaz,4
+1,CC1AED1,Algoritmos e Estrutura de Dados I,90,Anderson Brilhador,6
+1,CC1MBD,Modelagem de Banco de Dados,60,Leilaine Pereira de Rezende,4
+1,HU1LA,Linguagem Acadêmica,45,Vera Lucia Vasilevski Dos Santos Araujo,3
+
+2,CC2ER,Engenharia de Requisitos,60,Davi Marcondes Rocha,4
+2,MA2MA,Matemática Aplicada,60,Evandro Alves Nakajima,4
+2,CC2POO,Programação Orientada a Objetos,60,Giuvane Conti,4
+2,CC2CLD,Circuitos Lógicos Digitais,60,Gloria Patricia Lopez Sepulveda,4
+2,CC2AED2,Algoritmos e Estrutura de Dados II,60,Professor Substituto 1,4
+
+3,CC3AED3,Algoritmos e Estrutura de Dados III,60,Thiago Franca Naves,4
+3,MA3AL,Álgebra Linear,45,Evandro Alves Nakajima,3
+3,CC3AOC,Arquitetura e Organização de Computadores,90,Gloria Patricia Lopez Sepulveda,6
+3,CC3ES,Engenharia de Software,60,Professor Substituto 1,4
+3,MA3CA,Cálculo Aplicado,60,Vanderlea de Lima Inaba,4
+
+4,MA4PE,Probabilidade e Estatística,60,Diego Venancio Thomaz,4
+4,CC4LBD,Laboratório de Banco de Dados,60,Leilaine Pereira de Rezende,4
+4,CC4IHC,Interação Humano Computador,60,Professor Substituto 1,4
+4,CC4RC,Redes de Computadores,60,Agnaldo Da Costa,4
+4,CC4SO,Sistemas Operacionais,60,Agnaldo Da Costa,4
+4,CC4PO,Pesquisa e Ordenação,60,Franck Carlos Velez Benito,4

@@ -1,0 +1,31 @@
+# Arquivos Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Ambientes virtuais
+venv/
+env/
+ENV/
+
+# Arquivos gerados
+horario_final.html
+fitness_evolution.png
+*.log
+outputs/*/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Backup
+*_backup.py
+main_old_backup.py
+
+# OS
+.DS_Store
+Thumbs.db
